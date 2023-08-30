@@ -20,12 +20,12 @@ The users is able to:
 
 ## Built with
 
-Semantic HTML5
-CSS3
-Flexbox
-CSS Grid
+- Semantic HTML5
+- CSS3
+- Flexbox
+- CSS Grid
 
 ## Links 
-[live website](https://mouatezbenbara.github.io/workit-landing-page/)
-Linkedin - [mouatez_o](https://www.linkedin.com/in/mouatez-o/) 
-FrontEnd Mentor - [@mouatezbenbara](https://www.frontendmentor.io/profile/mouatezbenbara) 
+- [live website](https://mouatezbenbara.github.io/workit-landing-page/)
+- Linkedin - [mouatez_o](https://www.linkedin.com/in/mouatez-o/) 
+- FrontEnd Mentor - [@mouatezbenbara](https://www.frontendmentor.io/profile/mouatezbenbara) 
