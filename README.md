@@ -26,6 +26,6 @@ The users is able to:
 - CSS Grid
 
 ## Links 
-- [live website](https://mouatezbenbara.github.io/workit-landing-page/)
-- Linkedin - [mouatez_o](https://www.linkedin.com/in/mouatez-o/) 
-- FrontEnd Mentor - [@mouatezbenbara](https://www.frontendmentor.io/profile/mouatezbenbara) 
+- live website - [workit landing page](https://mouatezbenbara.github.io/workit-landing-page/)
+- Linkedin - [Mouatez Benbara](https://www.linkedin.com/in/mouatez-o/) 
+- FrontEnd Mentor - [My Profile](https://www.frontendmentor.io/profile/mouatezbenbara) 
