@@ -127,9 +127,16 @@ button {
 .offer {
   display: flex;
   flex-direction: column;
-  gap: 20px;
+  gap: 56px;
   width: 354px;
 }
+
+.offer-content {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+}
+
 .main-section .offer > p,
 .footer-text p {
   font-family: "Manrope";
@@ -280,8 +287,6 @@ button {
   }
 
   .offer-content {
-    display: flex;
-    flex-direction: column;
     gap: 16px;
   }
 
@@ -369,10 +374,7 @@ button {
   }
 
   .offer-content {
-    display: flex;
-    flex-direction: column;
     text-align: center;
-    gap: 16px;
   }
   .footer .center {
     margin-left: 0;
