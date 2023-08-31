@@ -109,7 +109,7 @@ button {
   background-color: #fcf8ff;
   text-align: center;
   margin-top: -137px;
-  height: 960px;
+  height: 823px;
 }
 .center {
   display: flex;
@@ -155,6 +155,7 @@ button {
 }
 .nbr {
   position: relative;
+  font-size: 24px;
 }
 .nbr::after {
   content: "";
